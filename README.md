@@ -1,4 +1,4 @@
-# server-sent-events-sample# Server-Sent Events Rust Sample
+# Server-Sent Events Rust Sample
 
 This is a Rust implementation of a Server-Sent Events (SSE) server using Actix Web.
 
